@@ -1,0 +1,16 @@
+{
+    "name": "xiong/say",
+    "description": "test composer package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Xiong\\Say\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xiong",
+            "email": "xiong@qq.com"
+        }
+    ]
+}
